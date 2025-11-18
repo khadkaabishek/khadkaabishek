@@ -44,7 +44,6 @@
 🎯 **Goals for 2025**
 
 - Master full stack development  
-- Win a national-level hackathon  
 - Publish my first open-source project  
 - Start freelancing or an internship in backend development  
 
