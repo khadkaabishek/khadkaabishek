@@ -41,13 +41,6 @@
 
 ---
 
-🎯 **Goals for 2025**
-
-- Master full stack development  
-- Publish my first open-source project  
-- Start freelancing or an internship in backend development  
-
----
 
 😄 **Fun Facts**
 
